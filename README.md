@@ -1,2 +1,2 @@
 # TonieboxRenamePowershell
-Script to rename the Toniebox Files
+just a small script to rename the OGG files output by TeddyBench.
